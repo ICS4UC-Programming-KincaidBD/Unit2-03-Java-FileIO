@@ -1,0 +1,8 @@
+55
+Error:  is not a number
+-1
+30
+0
+Error: Hello, is not a number
+Error: Bob is not a number
+64
